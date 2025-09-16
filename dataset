@@ -1,0 +1,14 @@
+## Dataset
+The dataset used in this project is the **Social Media Engagement Dataset**, which simulates social media engagement across various metrics.
+
+ [Social Media Engagement Dataset (Kaggle)](https://www.kaggle.com/datasets/amritpal333/social-media-engagement-dataset)
+
+### Key Features
+- Likes, shares, comments, and impressions
+- Sentiment scores & toxicity analysis
+- Buzz frequency and engagement growth
+- Designed for analysis of **user behavior, trend prediction, and public sentiment**
+
+### License
+- **CC0: Public Domain**  
+- Usability score: **9.41**
